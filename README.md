@@ -60,3 +60,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contributors 
 
 Pulkit Goyal | Mayank Goel | Tanishka Goel | Devansh Bansal
+
+## Main Repository Link
+https://github.com/Pulkito4/Mojo_Pizza_App_MVP
